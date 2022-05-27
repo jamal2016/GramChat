@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790801728455",
+    "firebase_url": "https://hellp-53bcd.firebaseio.com",
+    "project_id": "hellp-53bcd",
+    "storage_bucket": "hellp-53bcd.appspot.com"
+  },
+  "client": [
+     {
+      "client_info": {
+        "mobilesdk_app_id": "1:790801728455:android:3343ff0a5811b8542ecfe2",
+        "android_client_info": {
+          "package_name": "com.iug.gram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790801728455-cudjqdpk9d8s5jg2etqhescjou6j4k3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCClZWqLfFGPuZeL1I_sD8_pQ5scSjm3Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790801728455-cudjqdpk9d8s5jg2etqhescjou6j4k3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
